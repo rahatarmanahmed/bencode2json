@@ -1,5 +1,7 @@
 # bencode2json
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/bencode2json.svg)](https://greenkeeper.io/)
+
 A quick and dirty way to see what bencode data looks like as JSON.
 
 Built using [react-starter](https://github.com/substack/react-starter)
